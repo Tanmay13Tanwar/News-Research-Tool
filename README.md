@@ -1,4 +1,4 @@
-### News Research Tool 📈
+### Article Insight AI 📈
 
 *Tech Stack*: Streamlit, LangChain, HuggingFace Embeddings, Chroma, ChatGroq, Python
 
